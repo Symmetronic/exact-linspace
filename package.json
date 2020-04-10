@@ -1,23 +1,23 @@
 {
-  "name": "linspace",
+  "name": "exact-linspace",
   "version": "1.0.0",
   "description": "MATLAB-inspired generator for linearly spaced vectors.",
   "keywords": [],
-  "main": "dist/linspace.umd.js",
-  "module": "dist/linspace.es5.js",
-  "typings": "dist/types/linspace.d.ts",
+  "main": "dist/exact-linspace.umd.js",
+  "module": "dist/exact-linspace.es5.js",
+  "typings": "dist/types/exact-linspace.d.ts",
   "files": [
     "dist"
   ],
   "author": "Simon Hochholzer <simon@symmetronic.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Symmetronic/linspace"
+    "url": "git+https://github.com/Symmetronic/exact-linspace"
   },
   "bugs": {
-    "url": "https://github.com/Symmetronic/linspace/issues"
+    "url": "https://github.com/Symmetronic/exact-linspace/issues"
   },
-  "homepage": "https://github.com/Symmetronic/linspace#readme",
+  "homepage": "https://github.com/Symmetronic/exact-linspace#readme",
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"

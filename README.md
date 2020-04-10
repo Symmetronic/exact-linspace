@@ -1,4 +1,4 @@
-# linspace
+# exact-linspace
 
 [MATLAB-inspired](https://www.mathworks.com/help/matlab/ref/linspace.html) generator for linearly spaced values.
 
@@ -6,13 +6,13 @@
 
 ### Node Modules
 
-- Run `npm install linspace --save`
-- Add an import to the npm package `import linspace from 'linspace';`
+- Run `npm install exact-linspace --save`
+- Add an import to the npm package `import linspace from 'exact-linspace';`
 - Then you can use the function in your code.
 
 ### UNPKG
 
-- Put the following script tag `<script src='https://unpkg.com/linspace@1.0.0/dist/linspace.umd.js'></script>` in the head of your index.html
+- Put the following script tag `<script src='https://unpkg.com/exact-linspace@1.0.0/dist/exact-linspace.umd.js'></script>` in the head of your index.html
 - Then you can use the function in your code.
 
 ## API
