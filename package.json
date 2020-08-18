@@ -2,7 +2,13 @@
   "name": "exact-linspace",
   "version": "1.0.0",
   "description": "MATLAB-inspired generator for linearly spaced vectors.",
-  "keywords": [],
+  "keywords": [
+    "array",
+    "linear space",
+    "generator",
+    "scientific",
+    "vector"
+  ],
   "main": "dist/exact-linspace.umd.js",
   "module": "dist/exact-linspace.es5.js",
   "typings": "dist/types/exact-linspace.d.ts",
