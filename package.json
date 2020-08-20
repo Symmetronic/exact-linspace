@@ -4,8 +4,10 @@
   "description": "MATLAB-inspired generator for linearly spaced vectors.",
   "keywords": [
     "array",
+    "interpolation",
     "linear space",
     "generator",
+    "sampling",
     "scientific",
     "vector"
   ],
