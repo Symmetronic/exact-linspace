@@ -1,6 +1,6 @@
 {
   "name": "exact-linspace",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MATLAB-inspired generator for linearly spaced vectors.",
   "keywords": [
     "array",
