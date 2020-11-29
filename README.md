@@ -10,9 +10,9 @@
 - Add an import to the npm package `import linspace from 'exact-linspace';`
 - Then you can use the function in your code.
 
-### UNPKG
+### CDN
 
-- Put the following script tag `<script src='https://unpkg.com/exact-linspace@1.0.2/dist/exact-linspace.umd.js'></script>` in the head of your index.html
+- Put the following script tag `<script src='https://cdn.jsdelivr.net/npm/exact-linspace@1/dist/exact-linspace.umd.min.js'></script>` in the head of your index.html
 - Then you can use the function in your code.
 
 ## API
