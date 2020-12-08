@@ -1,6 +1,6 @@
 # exact-linspace
 
-[MATLAB-inspired](https://www.mathworks.com/help/matlab/ref/linspace.html) generator for linearly spaced values.
+[MATLAB-inspired](https://www.mathworks.com/help/matlab/ref/linspace.html) function to create linearly spaced values.
 
 ## Importing this function
 
