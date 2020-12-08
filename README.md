@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/Symmetronic/exact-linspace/workflows/build/badge.svg)](https://github.com/Symmetronic/exact-linspace/actions?query=workflow%3Abuild+branch%3Amaster) [![Coverage Status](https://coveralls.io/repos/github/Symmetronic/exact-linspace/badge.svg?branch=master)](https://coveralls.io/github/Symmetronic/exact-linspace?branch=master) [![GitHub License](https://img.shields.io/github/license/Symmetronic/exact-linspace)](https://github.com/Symmetronic/exact-linspace/blob/master/LICENSE) [![NPM Version](https://img.shields.io/npm/v/exact-linspace)](https://www.npmjs.com/package/exact-linspace) [![Monthly Downloads](https://img.shields.io/npm/dm/exact-linspace)](https://npmcharts.com/compare/exact-linspace?minimal=true)
+
 # exact-linspace
 
 [MATLAB-inspired](https://www.mathworks.com/help/matlab/ref/linspace.html) function to create linearly spaced values.
