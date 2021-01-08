@@ -22,7 +22,7 @@ export default function linspace(
   if (n === 1) return [x2];
 
   /* Initialize linspace. */
-  let ys: number[] = [];
+  const ys: number[] = [];
 
   /* Determine values. */
   for (let i: number = 0; i < n; i++) {
