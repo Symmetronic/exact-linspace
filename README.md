@@ -8,7 +8,7 @@
 
 ### Node Modules
 
-- Run `npm install exact-linspace --save`
+- Run `npm install exact-linspace`
 - Add an import to the npm package `import linspace from 'exact-linspace';`
 - Then you can use the function in your code.
 
