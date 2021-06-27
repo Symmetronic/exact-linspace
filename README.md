@@ -91,3 +91,7 @@ console.log(ys);
 - `npm run test:prod`: Run linting and generate coverage
 - `npm run build`: Generate bundles and typings, create docs
 - `npm run lint`: Lints code
+
+## Related project
+
+- [interp1](https://github.com/Symmetronic/interp1): MATLAB-inspired 1-dimensional data interpolation.
