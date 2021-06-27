@@ -94,4 +94,4 @@ console.log(ys);
 
 ## Related project
 
-- [interp1](https://github.com/Symmetronic/interp1): MATLAB-inspired 1-dimensional data interpolation.
+[interp1](https://github.com/Symmetronic/interp1) is a library for MATLAB-inspired 1-dimensional data interpolation.
