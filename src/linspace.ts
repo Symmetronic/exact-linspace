@@ -1,5 +1,6 @@
 /**
  * Returns an array of n values between x1 and x2 including the endpoints.
+ * 
  * @param  x1 First endpoint.
  * @param  x2 Second endpoint.
  * @param  n  Total number of values.
