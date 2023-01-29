@@ -1,6 +1,6 @@
 {
   "name": "exact-linspace",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "MATLAB-inspired function to create linearly spaced vectors.",
   "keywords": [
     "array",
